@@ -1,0 +1,3 @@
+EON\01_input
+EON\02_output
+EON\03_temp
